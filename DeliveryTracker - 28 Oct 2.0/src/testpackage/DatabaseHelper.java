@@ -13,7 +13,7 @@ public class DatabaseHelper {
 	
 	private static String host = "jdbc:mysql://mysqldatabase.ciloz6zv9mq8.ap-southeast-1.rds.amazonaws.com:3306/masterdatabase";
 	private String username = "kunaldaga28";
-	private String password = "kunalandy2001";
+	private String password = "//";
 	private String addCustomerProgress = "tbd";
 	private String removeCustomerProgress = "tbd";
 	private boolean isCustomer = true;
